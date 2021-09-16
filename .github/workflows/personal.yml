@@ -4,7 +4,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: "0 0-23/4 * * *"
+    - cron: "0 15 * * *"
   push:
     branches:
       - master
@@ -52,7 +52,7 @@ jobs:
           plugin_music: yes
           plugin_music_provider: spotify # Use Spotify as provider
           plugin_music_mode: recent      # Set plugin mode
-          plugin_music_limit: 3          # Limit to 5 entries
+          plugin_music_limit: 6          # Limit to 5 entries
           plugin_music_played_at: yes    # Show timestamp (for spotify only)
           plugin_music_user: 31aixbg6wpbvae4lihzddptl3qpq
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
@@ -68,13 +68,3 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: compact
           config_display: large
-
-      # - name: ⏰ WakaTime plugin
-      #   if: ${{ success() || failure() }}
-      #   uses: lowlighter/metrics@master
-      #   with:
-      #     filename: metrics.plugin.wakatime.svg
-      #     token: NOT_NEEDED
-      #     plugin_wakatime: yes
-      #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-      #     plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}

@@ -25,7 +25,7 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
           plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: push
+          output_action: pull-request
           
       # Achievements
       - name: 🏆 Achievements
@@ -38,4 +38,4 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_only: sponsor, maintainer, octonaut
           plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: push
+          output_action: pull-request-squash
