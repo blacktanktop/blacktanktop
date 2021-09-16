@@ -1,0 +1,41 @@
+# This is a workflow which is used to test new features from /metrics
+# ⚠️ Following jobs all uses @master branch (unstable branch with unreleased features)
+
+name: Metrics (alpha)
+on:
+  push:
+    branches:
+      - master
+      - main
+  workflow_dispatch:
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      # Achievements
+      - name: 🏆 Achievements (compact)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: polyglot, stargazer, sponsor, deployer, member, maintainer, developer, scripter, packager, explorer, infographile, manager
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+          output_action: pull-request
+          
+      # Achievements
+      - name: 🏆 Achievements
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
+          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+          output_action: pull-request-squash
