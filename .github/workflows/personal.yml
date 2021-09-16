@@ -24,12 +24,12 @@ jobs:
           base: header
           plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_languages_ignored: jupyter%20notebook, html, css, tex, objectscript, javascript, scss
+          plugin_languages_ignored: jupyter%20notebook, html, css, objectscript, javascript, scss
           plugin_languages_skipped: blacktanktop
           plugin_languages_details: lines, percentage
           plugin_languages_sections: most-used, recently-used
           plugin_languages_indepth: yes
-          plugin_languages_limit: 4
+          plugin_languages_limit: 3
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: mastered
@@ -54,7 +54,7 @@ jobs:
           plugin_music_mode: recent      # Set plugin mode
           plugin_music_limit: 5          # Limit to 5 entries
           plugin_music_played_at: yes    # Show timestamp (for spotify only)
-          plugin_anilist_user: 31aixbg6wpbvae4lihzddptl3qpq
+          plugin_music_user: 31aixbg6wpbvae4lihzddptl3qpq
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           config_order: anilist, music
  
