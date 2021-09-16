@@ -339,20 +339,20 @@ jobs:
           delay: 120
           
       # ======================================================================================
-      # 💬 GitHub Discussions
+      # # 💬 GitHub Discussions
 
-      # Display github discussions metrics
-      - name: 💬 Discussions plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.discussions.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_discussions: yes
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: push
-          delay: 120
+      # # Display github discussions metrics
+      # - name: 💬 Discussions plugin
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.discussions.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     plugin_discussions: yes
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: push
+      #     delay: 120
 
       # ======================================================================================
       # 🎟️ Follow-up of issues and pull requests
