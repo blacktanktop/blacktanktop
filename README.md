@@ -1,5 +1,5 @@
 ## Hey! Nice to see you. I'm blacktanktop
-![Build](https://github.com/blacktanktop/metrics/workflows/Build/badge.svg) [![Metrics (examples)](https://github.com/blacktanktop/blacktanktop/actions/workflows/metrics.yml/badge.svg)](https://github.com/blackta/blacktanktop/actions/workflows/metrics.yml)
+
 
 <p align="left"> 
   <a href="https://github.com/blacktanktop/blacktanktop/">
@@ -19,7 +19,6 @@
 <p align="left"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=blacktanktop&show_icons=true&count_private=true&include_all_commits=ture&theme=blueberry" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blacktanktop&show_icons=true&layout=compact&count_private=true&theme=blueberry&hide=jupyter%20notebook, html, css, tex" />
-</a>
 </p>
 
 ![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=blacktanktop&theme=discord&&margin-w=15)
