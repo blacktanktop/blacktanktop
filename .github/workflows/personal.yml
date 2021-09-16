@@ -54,7 +54,7 @@ jobs:
           plugin_music_mode: recent      # Set plugin mode
           plugin_music_limit: 5          # Limit to 5 entries
           plugin_music_played_at: yes    # Show timestamp (for spotify only)
-          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           config_order: anilist, music
  
       - name: 🦑 Personal metrics (bottom)
