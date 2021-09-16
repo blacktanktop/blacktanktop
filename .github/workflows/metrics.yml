@@ -339,20 +339,20 @@ jobs:
           delay: 120
           
       # ======================================================================================
-      # # 💬 GitHub Discussions
+      # 💬 GitHub Discussions
 
-      # # Display github discussions metrics
-      # - name: 💬 Discussions plugin
-      #   if: ${{ success() || failure() }}
-      #   uses: lowlighter/metrics@master
-      #   with:
-      #     filename: metrics.plugin.discussions.svg
-      #     token: ${{ secrets.METRICS_TOKEN }}
-      #     base: ""
-      #     plugin_discussions: yes
-      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-      #     output_action: push
-      #     delay: 120
+      # Display github discussions metrics
+      - name: 💬 Discussions plugin
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.discussions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_discussions: yes
+          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+          output_action: push
+          delay: 120
 
       # ======================================================================================
       # 🎟️ Follow-up of issues and pull requests
@@ -1208,8 +1208,8 @@ jobs:
           token: NOT_NEEDED
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: MOCKED_TOKEN # ${{ secrets.WAKATIME_TOKEN }}
-          use_mocked_data: yes                # ⚠️ Using mocked data because I don't really use WakaTime
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          use_mocked_data: yes
           plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
           output_action: push
           delay: 120
