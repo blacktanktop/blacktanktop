@@ -770,6 +770,7 @@ jobs:
           plugin_music_played_at: yes    # Show timestamp (for spotify only)
           plugin_music_user: 31aixbg6wpbvae4lihzddptl3qpq
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+          config_timezone: Asia/Tokyo
           plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
           output_action: pull-request
           delay: 120
