@@ -1210,7 +1210,7 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          use_mocked_data: yes
+          use_mocked_data: no
           plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
           output_action: push
           delay: 120
