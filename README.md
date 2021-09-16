@@ -1,4 +1,5 @@
 ## Hey! Nice to see you. I'm blacktanktop
+![Build](https://github.com/blacktanktop/metrics/workflows/Build/badge.svg) [![Metrics (examples)](https://github.com/blacktanktop/blacktanktop/actions/workflows/metrics.yml/badge.svg)](https://github.com/blackta/blacktanktop/actions/workflows/metrics.yml)
 <p align="left"> 
   <a href="https://github.com/blacktanktop/blacktanktop/">
     <img src="https://komarev.com/ghpvc/?username=blacktanktop&style=flat-square&color=ff69b4" alt="blacktanktop" />
