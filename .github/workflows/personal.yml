@@ -50,10 +50,13 @@ jobs:
           plugin_anilist_limit: 5
           plugin_anilist_limit_characters: 22
           plugin_music: yes
-          plugin_music_playlist: ${{ secrets.MUSIC_PLAYLIST }}
-          plugin_music_limit: 5
+          plugin_music_provider: spotify # Use Spotify as provider
+          plugin_music_mode: recent      # Set plugin mode
+          plugin_music_limit: 5          # Limit to 5 entries
+          plugin_music_played_at: yes    # Show timestamp (for spotify only)
+          plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           config_order: anilist, music
-
+ 
       - name: 🦑 Personal metrics (bottom)
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
