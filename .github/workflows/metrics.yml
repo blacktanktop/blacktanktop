@@ -79,40 +79,40 @@ jobs:
           output_action: pull-request
           delay: 120
           
-      # Markdown template example (with plugins)
-      - name: 📒 Markdown template (with plugins)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          template: markdown
-          filename: metrics.markdown.full.md
-          markdown: https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
-          config_output: markdown
-          plugin_activity: yes
-          plugin_activity_limit: 7
-          plugin_activity_days: 0
-          plugin_activity_filter: issue, pr, release, fork, review, ref/create
-          plugin_posts: yes
-          plugin_posts_source: dev.to
-          plugin_posts_descriptions: yes
-          plugin_posts_covers: yes
-          plugin_posts_limit: 2
-          plugin_rss: yes
-          plugin_rss_source: https://news.ycombinator.com/rss
-          plugin_rss_limit: 4
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_user: github
-          plugin_tweets_attachments: yes
-          plugin_tweets_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 24
-          plugin_isocalendar: yes
-          plugin_languages: yes
-          token: ${{ secrets.METRICS_TOKEN }}
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # # Markdown template example (with plugins)
+      # - name: 📒 Markdown template (with plugins)
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     template: markdown
+      #     filename: metrics.markdown.full.md
+      #     markdown: https://raw.githubusercontent.com/lowlighter/metrics/master/source/templates/markdown/example.md
+      #     config_output: markdown
+      #     plugin_activity: yes
+      #     plugin_activity_limit: 7
+      #     plugin_activity_days: 0
+      #     plugin_activity_filter: issue, pr, release, fork, review, ref/create
+      #     plugin_posts: yes
+      #     plugin_posts_source: dev.to
+      #     plugin_posts_descriptions: yes
+      #     plugin_posts_covers: yes
+      #     plugin_posts_limit: 2
+      #     plugin_rss: yes
+      #     plugin_rss_source: https://news.ycombinator.com/rss
+      #     plugin_rss_limit: 4
+      #     plugin_tweets: yes
+      #     plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+      #     plugin_tweets_user: github
+      #     plugin_tweets_attachments: yes
+      #     plugin_tweets_limit: 2
+      #     plugin_topics: yes
+      #     plugin_topics_limit: 24
+      #     plugin_isocalendar: yes
+      #     plugin_languages: yes
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
           
       # Markdown template example (pdf)
       - name: 📒 Markdown template (pdf)
@@ -268,75 +268,75 @@ jobs:
           delay: 120
 
       # ======================================================================================
-      # 🏅 Contributors
+      # # 🏅 Contributors
 
-      - name: 🏅 Contributors plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.contributors.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_contributors: yes
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # - name: 🏅 Contributors plugin
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.contributors.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     template: repository
+      #     repo: metrics
+      #     plugin_contributors: yes
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
           
-      - name: 🏅 Contributors plugin (categories)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.contributors.categories.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_contributors: yes
-          plugin_contributors_sections: categories
-          plugin_contributors_categories: |
-            {
-              "🧩 Plugins / 🖼️ templates":["source/plugins/**", "source/templates/**"],
-              "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
-              "💻 Code (other)":["source/**", "Dockerfile"]
-            }
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # - name: 🏅 Contributors plugin (categories)
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.contributors.categories.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     template: repository
+      #     repo: metrics
+      #     plugin_contributors: yes
+      #     plugin_contributors_sections: categories
+      #     plugin_contributors_categories: |
+      #       {
+      #         "🧩 Plugins / 🖼️ templates":["source/plugins/**", "source/templates/**"],
+      #         "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
+      #         "💻 Code (other)":["source/**", "Dockerfile"]
+      #       }
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
 
-      - name: 🏅 Contributors plugin (with contributions)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.contributors.contributions.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_contributors: yes
-          plugin_contributors_contributions: yes
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # - name: 🏅 Contributors plugin (with contributions)
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.contributors.contributions.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     template: repository
+      #     repo: metrics
+      #     plugin_contributors: yes
+      #     plugin_contributors_contributions: yes
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
 
-      - name: 🏅 Contributors plugin (release note)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.contributors.png
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          config_output: png
-          plugin_contributors: yes
-          plugin_contributors_head: master
-          plugin_contributors_base: latest
-          plugin_contributors_contributions: yes
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # - name: 🏅 Contributors plugin (release note)
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.contributors.png
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     template: repository
+      #     repo: metrics
+      #     config_output: png
+      #     plugin_contributors: yes
+      #     plugin_contributors_head: master
+      #     plugin_contributors_base: latest
+      #     plugin_contributors_contributions: yes
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
           
       # ======================================================================================
       # 💬 GitHub Discussions
@@ -401,19 +401,19 @@ jobs:
           delay: 120
           
       # ======================================================================================
-      # 💭 GitHub Community Support
+      # # 💭 GitHub Community Support
 
-      # GitHub community support statistics
-      - name: 💭 GitHub Community Support
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.support.svg
-          token: NOT_NEEDED
-          plugin_support: yes
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # # GitHub community support statistics
+      # - name: 💭 GitHub Community Support
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.support.svg
+      #     token: NOT_NEEDED
+      #     plugin_support: yes
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
 
       # ======================================================================================
       # 🌇 GitHub Skyline 3D calendar
@@ -493,7 +493,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.introduction.svg
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           user: github
           base: header
           plugin_introduction: yes
@@ -501,20 +501,20 @@ jobs:
           output_action: pull-request
           delay: 120
 
-      # Display introduction (repository)
-      - name: 🙋 Introduction plugin (repository)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.introduction.repository.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          template: repository
-          repo: metrics
-          base: header
-          plugin_introduction: yes
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # # Display introduction (repository)
+      # - name: 🙋 Introduction plugin (repository)
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.introduction.repository.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     template: repository
+      #     repo: metrics
+      #     base: header
+      #     plugin_introduction: yes
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
 
       # ======================================================================================
       # 📅 Isometric commit calendar
@@ -615,59 +615,59 @@ jobs:
           delay: 120
 
       # ======================================================================================
-      # 📜 Licenses
+      # # 📜 Licenses
 
-      # List permissions, limitations and conditions of licenses and dependencies
-      - name: 📜 Licenses
-        uses: lowlighter/metrics@master
-        if: ${{ success() || failure() }}
-        with:
-          filename: metrics.plugin.licenses.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_licenses: yes
-          plugin_licenses_setup: npm ci
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # # List permissions, limitations and conditions of licenses and dependencies
+      # - name: 📜 Licenses
+      #   uses: lowlighter/metrics@master
+      #   if: ${{ success() || failure() }}
+      #   with:
+      #     filename: metrics.plugin.licenses.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     template: repository
+      #     repo: metrics
+      #     plugin_licenses: yes
+      #     plugin_licenses_setup: npm ci
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
 
-      # List ratio of licenses and dependencies
-      - name: 📜 Licenses (ratio)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.licenses.ratio.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_licenses: yes
-          plugin_licenses_setup: npm ci
-          plugin_licenses_legal: no
-          plugin_licenses_ratio: yes
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # # List ratio of licenses and dependencies
+      # - name: 📜 Licenses (ratio)
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.licenses.ratio.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     template: repository
+      #     repo: metrics
+      #     plugin_licenses: yes
+      #     plugin_licenses_setup: npm ci
+      #     plugin_licenses_legal: no
+      #     plugin_licenses_ratio: yes
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
 
-      # List permissions, limitations and conditions of licenses and dependencies (metrics)
-      - name: 📜 Licenses (repository)
-        if: f${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.licenses.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_licenses: yes
-          plugin_licenses_setup: npm ci
-          plugin_licenses_legal: yes
-          plugin_licenses_ratio: yes
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # # List permissions, limitations and conditions of licenses and dependencies (metrics)
+      # - name: 📜 Licenses (repository)
+      #   if: f${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.licenses.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     template: repository
+      #     repo: metrics
+      #     plugin_licenses: yes
+      #     plugin_licenses_setup: npm ci
+      #     plugin_licenses_legal: yes
+      #     plugin_licenses_ratio: yes
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
 
       # ======================================================================================
       # 👨‍💻 Lines of code changed
@@ -864,22 +864,22 @@ jobs:
           output_action: pull-request
           delay: 120
 
-      # Repository people
-      - name: 🧑‍🤝‍🧑 People plugin (repository template)
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.people.repository.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_people: yes
-          plugin_people_types: contributors, stargazers, watchers, sponsors
-          plugin_people_sponsors_custom: lowlighter, yutkat, ktnkk
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # # Repository people
+      # - name: 🧑‍🤝‍🧑 People plugin (repository template)
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.people.repository.svg
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     template: repository
+      #     repo: metrics
+      #     plugin_people: yes
+      #     plugin_people_types: contributors, stargazers, watchers, sponsors
+      #     plugin_people_sponsors_custom: lowlighter, yutkat, ktnkk
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
 
       # Sponsors
       - name: 🧑‍🤝‍🧑 People plugin (sponsors)
@@ -950,28 +950,28 @@ jobs:
           delay: 120
 
       # ======================================================================================
-      # 🗂️ Projects
+      # # - You can use repositories projects by providing a list of comma-separated endpoints
+      # # - You can set "plugin_projects_limit" to 0 to display only "plugin_projects_repositories"
+      # # - You'll need to enable "Track project progress" in your projects to display a progress bar
+      # - name: 🗂️ Projects plugin
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     file# 🗂️ Projects
 
-      # Display active projects
-      # Note that :
-      # - A "public_repo" scope is required
-      # - It uses user projects by default (those which are on your profile)
-      # - You can use repositories projects by providing a list of comma-separated endpoints
-      # - You can set "plugin_projects_limit" to 0 to display only "plugin_projects_repositories"
-      # - You'll need to enable "Track project progress" in your projects to display a progress bar
-      - name: 🗂️ Projects plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.projects.svg
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: ""
-          plugin_projects: yes
-          plugin_projects_repositories: lowlighter/metrics/projects/1
-          plugin_projects_descriptions: yes
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # # Display active projects
+      # # Note that :
+      # # - A "public_repo" scope is required
+      # # - It uses user projects by default (those which are on your profile)
+      # # name: metrics.plugin.projects.svg
+      #     token: ${{ secrets.METRICS_BOT_TOKEN }}
+      #     base: ""
+      #     plugin_projects: yes
+      #     plugin_projects_repositories: lowlighter/metrics/projects/1
+      #     plugin_projects_descriptions: yes
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
 
       # ======================================================================================
       # 🎭 Comment reactions plugin
@@ -1147,75 +1147,75 @@ jobs:
           delay: 120
 
       # ======================================================================================
-      # 🧮 Repositories traffic
+      # # 🧮 Repositories traffic
 
-      # Display number of repositories views (this is part of base content "repositories" section, so you need to enable it)
-      # Note that a "repo" scope is required
-      - name: 🧮 Traffic plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.traffic.svg
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
-          base: repositories
-          plugin_traffic: yes
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
-
-      # ======================================================================================
-      # 🐤 Latest tweets
-
-      # Display your latest tweets (token required)
-      # Don't forget to update your GitHub profile with your twitter username
-      - name: 🐤 Tweets plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.tweets.svg
-          token: NOT_NEEDED
-          user: botlighter
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_user: github
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
-
-      # Display your latest tweets with attachments (token required)
-      # Don't forget to update your GitHub profile with your twitter username
-      - name: 🐤 Tweets plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.tweets.attachments.svg
-          token: NOT_NEEDED
-          user: botlighter
-          plugin_tweets: yes
-          plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
-          plugin_tweets_attachments: yes
-          plugin_tweets_user: github
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # # Display number of repositories views (this is part of base content "repositories" section, so you need to enable it)
+      # # Note that a "repo" scope is required
+      # - name: 🧮 Traffic plugin
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.traffic.svg
+      #     token: ${{ secrets.METRICS_BOT_TOKEN }}
+      #     base: repositories
+      #     plugin_traffic: yes
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
 
       # ======================================================================================
-      # ⏰ WakaTime plugin
+      # # 🐤 Latest tweets
 
-      # Display your wakatime metrics
-      - name: ⏰ WakaTime plugin
-        if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
-        with:
-          filename: metrics.plugin.wakatime.svg
-          token: NOT_NEEDED
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          use_mocked_data: no
-          plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
-          output_action: pull-request
-          delay: 120
+      # # Display your latest tweets (token required)
+      # # Don't forget to update your GitHub profile with your twitter username
+      # - name: 🐤 Tweets plugin
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.tweets.svg
+      #     token: NOT_NEEDED
+      #     user: botlighter
+      #     plugin_tweets: yes
+      #     plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+      #     plugin_tweets_user: github
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
+
+      # # Display your latest tweets with attachments (token required)
+      # # Don't forget to update your GitHub profile with your twitter username
+      # - name: 🐤 Tweets plugin
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.tweets.attachments.svg
+      #     token: NOT_NEEDED
+      #     user: botlighter
+      #     plugin_tweets: yes
+      #     plugin_tweets_token: ${{ secrets.TWITTER_TOKEN }}
+      #     plugin_tweets_attachments: yes
+      #     plugin_tweets_user: github
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
+
+      # ======================================================================================
+      # # ⏰ WakaTime plugin
+
+      # # Display your wakatime metrics
+      # - name: ⏰ WakaTime plugin
+      #   if: ${{ success() || failure() }}
+      #   uses: lowlighter/metrics@master
+      #   with:
+      #     filename: metrics.plugin.wakatime.svg
+      #     token: NOT_NEEDED
+      #     plugin_wakatime: yes
+      #     plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+      #     plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+      #     use_mocked_data: no
+      #     plugins_errors_fatal: ${{ github.repository == 'blacktanktop/blacktanktop' }}
+      #     output_action: pull-request
+      #     delay: 120
 
       # ======================================================================================
       # ⏺️ Others
@@ -1240,7 +1240,7 @@ jobs:
         with:
           filename: metrics.organization.svg
           user: github
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header, repositories
           output_action: pull-request
           delay: 120
@@ -1262,7 +1262,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.example.json
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           config_output: json
           output_action: pull-request
           delay: 120
@@ -1276,7 +1276,7 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.header.svg
-          token: ${{ secrets.METRICS_BOT_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: header
           debug_flags: --cakeday --hireable --halloween
           output_action: pull-request-squash
