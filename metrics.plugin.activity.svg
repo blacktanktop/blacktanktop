@@ -1316,6 +1316,54 @@
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
+                      Opened <span class="issue">#10 A structural biology community assessment of AlphaFold 2 applications</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">DrugDiscoveryInformaticsTimes/DrugDiscoveryInformaticsTimes</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                      Opened <span class="issue">#9 Molecular de-novo design through deep reinforcement learning</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">DrugDiscoveryInformaticsTimes/DrugDiscoveryInformaticsTimes</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
+                      Opened <span class="issue">#8 Molecular generative model based on conditional variational autoencoder for de novo molecular design</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">DrugDiscoveryInformaticsTimes/DrugDiscoveryInformaticsTimes</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
                       Opened <span class="issue">#7 eModel-BDB: a database of comparative structure models of drug-target interactions from the Binding Database</span>
                     </div>
                                 </div>
@@ -1365,54 +1413,6 @@
                                     </svg>
                                     <div class="content">
                       Opened <span class="issue">#4 D-SCRIPT contact maps recapitulate protein binding mechanisms</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">DrugDiscoveryInformaticsTimes/DrugDiscoveryInformaticsTimes</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Opened <span class="issue">#3 PDBench: Evaluating Computational Methods for Protein Sequence Design</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">DrugDiscoveryInformaticsTimes/DrugDiscoveryInformaticsTimes</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Opened <span class="issue">#2 A deep-learning framework for multi-level peptide–protein interaction prediction</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">DrugDiscoveryInformaticsTimes/DrugDiscoveryInformaticsTimes</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Opened <span class="issue">#1 Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation</span>
                     </div>
                                 </div>
                                 <div class="details">
