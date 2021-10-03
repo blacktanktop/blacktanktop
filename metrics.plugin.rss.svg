@@ -1344,8 +1344,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gentle introduction to GPUs inner workings</div>
-                                <div class="date">02/10/2021</div>
+                                <div class="title">Word-Aligned Bloom Filters</div>
+                                <div class="date">03/10/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1353,8 +1353,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tesla produces 238k; delivers 241k vehicles in Q3 2021</div>
-                                <div class="date">02/10/2021</div>
+                                <div class="title">Show HN: SpotML – Managed ML Training on Cheap AWS/GCP Spot Instances</div>
+                                <div class="date">03/10/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1362,8 +1362,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Wayforward Machine</div>
-                                <div class="date">02/10/2021</div>
+                                <div class="title">Everything Is Difficult. So What?</div>
+                                <div class="date">03/10/2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1371,8 +1371,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DroneSploit – A pentesting console framework dedicated to drones</div>
-                                <div class="date">02/10/2021</div>
+                                <div class="title">DARPA's hypersonic scramjet achieves successful flight</div>
+                                <div class="date">03/10/2021</div>
                             </div>
                         </div>
                     </section>
