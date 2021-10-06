@@ -1343,15 +1343,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 82 edited files from 109 commits over last 13 days
+            estimation from 82 edited files from 105 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.19306620754423" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.19306620754423" y="0" width="3.8069337924557836" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.0301333804781" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.0301333804781" y="0" width="1.9698666195218733" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1362,7 +1362,7 @@
                     </div>
                             <small>
                                 <div>50.6 kB</div>
-                                <div>99.17%</div>
+                                <div>99.57%</div>
                             </small>
                         </div>
                     </section>
@@ -1373,8 +1373,8 @@
                       Jupyter Notebook
                     </div>
                             <small>
-                                <div>423 bytes</div>
-                                <div>0.83%</div>
+                                <div>218 bytes</div>
+                                <div>0.43%</div>
                             </small>
                         </div>
                     </section>
