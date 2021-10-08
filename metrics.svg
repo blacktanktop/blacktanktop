@@ -2493,8 +2493,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.667933245175" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="267.667933245175" y="0" width="192.33206675482498" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="267.66471375962504" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="267.66471375962504" y="0" width="192.33528624037496" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2504,7 +2504,7 @@
                       TeX
                     </div>
                             <small>
-                                <div>159 lines</div>
+                                <div>160 lines</div>
                                 <div>58.19%</div>
                             </small>
                         </div>
