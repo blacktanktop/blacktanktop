@@ -2504,15 +2504,15 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 113 edited files from 120 commits over last 14 days
+            estimation from 113 edited files from 119 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.4351212555451" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="302.4351212555451" y="0" width="157.5648787444549" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.46320479862896" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="302.46320479862896" y="0" width="157.53679520137104" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2522,7 +2522,7 @@
                       TeX
                     </div>
                             <small>
-                                <div>568 lines</div>
+                                <div>561 lines</div>
                                 <div>65.75%</div>
                             </small>
                         </div>
