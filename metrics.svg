@@ -2518,17 +2518,17 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 108 edited files from 83 commits over last 14 days
+            estimation from 107 edited files from 78 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.39805586485323" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="301.39805586485323" y="0" width="156.98365314333728" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.38170900819046" y="0" width="1.253782729576676" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.6354917377671" y="0" width="0.36450826223281807" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="301.39588897921266" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="301.39588897921266" y="0" width="156.98579791921415" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.38168689842684" y="0" width="1.2537998592771218" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.635486757704" y="0" width="0.3645132422961055" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2538,7 +2538,7 @@
                       TeX
                     </div>
                             <small>
-                                <div>566 lines</div>
+                                <div>570 lines</div>
                                 <div>65.52%</div>
                             </small>
                         </div>
