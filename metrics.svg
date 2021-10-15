@@ -2380,10 +2380,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
                             </g>
-                            <g transform="translate(-8.5, 10.454545454545453)">
+                            <g transform="translate(-8.5, 10.272727272727273)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5454545454545454 0,1.5454545454545454 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5454545454545454 1.7,2.5454545454545454 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.7272727272727275 0,1.7272727272727273 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.7272727272727273 1.7,2.7272727272727275 z"/>
                             </g>
                         </g>
                     </g>
@@ -2486,17 +2486,17 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 97 edited files from 80 commits over last 13 days
+            estimation from 97 edited files from 80 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.293363194191" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="435.293363194191" y="0" width="22.369399855957536" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.6627630501485" y="0" width="1.8107913456131177" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.47355439576165" y="0" width="0.5264456042384001" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="435.29360694554066" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="435.29360694554066" y="0" width="22.36917916337806" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="457.66278610891874" y="0" width="1.8107734806629834" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.4735595895817" y="0" width="0.526440410418311" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2506,7 +2506,7 @@
                       TeX
                     </div>
                             <small>
-                                <div>567 lines</div>
+                                <div>568 lines</div>
                                 <div>94.63%</div>
                             </small>
                         </div>
