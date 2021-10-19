@@ -2511,10 +2511,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.75385319264535" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="447.75385319264535" y="0" width="5.4719624832003655" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.2258156758457" y="0" width="5.248348631723428" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.47416430756914" y="0" width="1.5258356924308714" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="447.7542033626902" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="447.7542033626902" y="0" width="5.471806016241565" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.22600937893174" y="0" width="5.248198558847077" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.47420793777883" y="0" width="1.5257920622212056" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2524,7 +2524,7 @@
                       TeX
                     </div>
                             <small>
-                                <div>426 lines</div>
+                                <div>425 lines</div>
                                 <div>97.34%</div>
                             </small>
                         </div>
