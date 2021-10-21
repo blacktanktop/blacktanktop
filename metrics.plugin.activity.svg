@@ -1347,6 +1347,22 @@
                                         <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                     </svg>
                                     <div class="content">
+                      Opened <span class="issue">#34 APPTEST is a novel protocol for the automatic prediction of peptide tertiary structures</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">DrugDiscoveryInformaticsTimes/DrugDiscoveryInformaticsTimes</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
+                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
+                                    </svg>
+                                    <div class="content">
                       Opened <span class="issue">#33 3D Infomax improves GNNs for Molecular Property Prediction</span>
                     </div>
                                 </div>
@@ -1426,22 +1442,6 @@
                       Created new
                       repository  <span class="repo">blacktanktop/GenPPIMol</span>
                     </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
-                                        <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
-                                    </svg>
-                                    <div class="content">
-                      Opened <span class="issue">#29 Fr-PPIChem: An Academic Compound Library Dedicated to Protein–Protein Interactions</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened  in <span class="repo">DrugDiscoveryInformaticsTimes/DrugDiscoveryInformaticsTimes</span></div>
                                 </div>
                             </section>
                         </div>
