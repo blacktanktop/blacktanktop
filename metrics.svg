@@ -2498,41 +2498,19 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 85 edited files from 22 commits over last 14 days
+            estimation from 81 edited files from 20 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="190.4730775847239" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="190.4730775847239" y="0" width="172.0878490739148" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="362.5609266586387" y="0" width="83.41934743964677" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="445.9802740982855" y="0" width="14.019725901714548" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="248.86308980844183" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="248.86308980844183" y="0" width="120.6360394725931" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="369.4991292810349" y="0" width="70.22638693092297" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="439.72551621195794" y="0" width="20.274483788042126" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      TeX
-                    </div>
-                            <small>
-                                <div>46 lines</div>
-                                <div>41.41%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      Python
-                    </div>
-                            <small>
-                                <div>126 lines</div>
-                                <div>18.13%</div>
-                            </small>
-                        </div>
-                    </section>
                     <section>
                         <div class="field language details">
                             <div class="field">
@@ -2541,7 +2519,29 @@
                     </div>
                             <small>
                                 <div>478 lines</div>
-                                <div>37.41%</div>
+                                <div>54.1%</div>
+                            </small>
+                        </div>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      TeX
+                    </div>
+                            <small>
+                                <div>26 lines</div>
+                                <div>15.27%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Python
+                    </div>
+                            <small>
+                                <div>126 lines</div>
+                                <div>26.23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2551,7 +2551,7 @@
                     </div>
                             <small>
                                 <div>36 lines</div>
-                                <div>3.05%</div>
+                                <div>4.41%</div>
                             </small>
                         </div>
                     </section>
