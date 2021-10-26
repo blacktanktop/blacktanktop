@@ -2504,16 +2504,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 70 edited files from 16 commits over last 13 days
+            estimation from 67 edited files from 17 commits over last 13 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="294.01783090036247" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="294.01783090036247" y="0" width="142.02899970608405" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="436.0468306064466" y="0" width="23.953169393553445" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="285.2520731867843" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="285.2520731867843" y="0" width="153.29296652187267" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.54503970865693" y="0" width="21.454960291343074" height="8" fill="#427819"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2523,8 +2523,8 @@
                       Shell
                     </div>
                             <small>
-                                <div>478 lines</div>
-                                <div>63.92%</div>
+                                <div>507 lines</div>
+                                <div>62.01%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2534,7 +2534,7 @@
                     </div>
                             <small>
                                 <div>36 lines</div>
-                                <div>5.21%</div>
+                                <div>4.66%</div>
                             </small>
                         </div>
                     </section>
@@ -2545,8 +2545,8 @@
                       Python
                     </div>
                             <small>
-                                <div>125 lines</div>
-                                <div>30.88%</div>
+                                <div>156 lines</div>
+                                <div>33.32%</div>
                             </small>
                         </div>
                     </section>
