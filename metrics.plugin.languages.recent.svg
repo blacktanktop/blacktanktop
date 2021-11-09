@@ -1398,7 +1398,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 24 edited files from 4 commits over last 14 days
+            estimation from 12 edited files from 2 commits over last 11 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1415,7 +1415,7 @@
                       Python
                     </div>
                             <small>
-                                <div>2.15 kB</div>
+                                <div>514 bytes</div>
                                 <div>100%</div>
                             </small>
                         </div>
