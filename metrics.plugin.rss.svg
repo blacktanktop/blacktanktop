@@ -278,6 +278,12 @@
 /* Follow-up */
   .followup.legend {
     font-size: 12px;
+    flex-wrap: wrap;
+  }
+  .followup.legend .field {
+    width: 46%;
+    justify-content: flex-start;
+    margin-left: 8px;
   }
   .followup.legend svg {
     margin: 0 3px;
@@ -1399,8 +1405,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rich Harris joins Vercel to work on Svelte full time</div>
-                                <div class="date">11 Nov 2021</div>
+                                <div class="title">Ruby vs. Python comes down to the for loop</div>
+                                <div class="date">12 Nov 2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1408,8 +1414,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I'm “still afraid to use spaces in file names” years old</div>
-                                <div class="date">11 Nov 2021</div>
+                                <div class="title">I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA</div>
+                                <div class="date">12 Nov 2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1417,8 +1423,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: Hightouch (YC S19) – Sync data from data warehouses to SaaS tools</div>
-                                <div class="date">11 Nov 2021</div>
+                                <div class="title">Show HN: Long Range E-Bike</div>
+                                <div class="date">12 Nov 2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -1426,8 +1432,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Practical HTTP Header Smuggling: Sneaking Past Reverse Proxies to Attack AWS</div>
-                                <div class="date">11 Nov 2021</div>
+                                <div class="title">How not to sort by average rating (2009)</div>
+                                <div class="date">12 Nov 2021</div>
                             </div>
                         </div>
                     </section>
