@@ -19,8 +19,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Better.com CEO fires 900 employees on Zoom call</div>
-                                <div class="date">6 Dec 2021</div>
+                                <div class="title">AWS us-east-1 outage</div>
+                                <div class="date">7 Dec 2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -28,8 +28,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">There are over one trillion SQLite databases in active use</div>
-                                <div class="date">6 Dec 2021</div>
+                                <div class="title">Hetzner now provides IPv6 only dedicated servers</div>
+                                <div class="date">7 Dec 2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -37,8 +37,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">WebAssembly and Back Again: Fine-Grained Sandboxing in Firefox 95</div>
-                                <div class="date">6 Dec 2021</div>
+                                <div class="title">MikroTik RouterOS v7 stable released</div>
+                                <div class="date">7 Dec 2021</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -46,8 +46,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How SQLite Is Tested</div>
-                                <div class="date">6 Dec 2021</div>
+                                <div class="title">Regularized Newton Method with Global $O(1/k^2)$ Convergence</div>
+                                <div class="date">7 Dec 2021</div>
                             </div>
                         </div>
                     </section>
