@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Once billed as a revolution in medicine, IBMs Watson Health is sold off in parts</div>
-                                <div class="date">23 Jan 2022</div>
+                                <div class="title">The Curse of NixOS</div>
+                                <div class="date">24 Jan 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Marginalia – Exploration Mode</div>
-                                <div class="date">23 Jan 2022</div>
+                                <div class="title">You Don't Need the Cloud</div>
+                                <div class="date">24 Jan 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Strict Python Function Parameters</div>
-                                <div class="date">23 Jan 2022</div>
+                                <div class="title">I got pwned by my cloud costs</div>
+                                <div class="date">24 Jan 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Rise and Fall of 'Social Bot' Research (2021)</div>
-                                <div class="date">23 Jan 2022</div>
+                                <div class="title">We're migrating many of our servers from Linux to FreeBSD</div>
+                                <div class="date">24 Jan 2022</div>
                             </div>
                         </div>
                     </section>
