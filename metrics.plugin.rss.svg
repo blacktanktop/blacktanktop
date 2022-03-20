@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenBSD/arm64 on Apple M1 systems</div>
-                                <div class="date">19 Mar 2022</div>
+                                <div class="title">Vimeo: “We are a B2B solution, not the indie version of YouTube.”</div>
+                                <div class="date">20 Mar 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Gas pumps happen to be about as insecure as your typical router</div>
-                                <div class="date">19 Mar 2022</div>
+                                <div class="title">How much Rust in Firefox? March 2022</div>
+                                <div class="date">20 Mar 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: A game that tests how well you know your local area</div>
-                                <div class="date">19 Mar 2022</div>
+                                <div class="title">Decrypting your own HTTPS traffic with Wireshark</div>
+                                <div class="date">20 Mar 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Kiwink: Visible Light Communication via phone camera/flash</div>
-                                <div class="date">19 Mar 2022</div>
+                                <div class="title">Mitmproxy 8</div>
+                                <div class="date">20 Mar 2022</div>
                             </div>
                         </div>
                     </section>
