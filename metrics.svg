@@ -1214,14 +1214,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 55.8kb of code in 9 edited files across 14 commits over last 13 days</small>
+                <small>estimation from 55.7kb of code in 9 edited files across 14 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.9920189775446" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="458.9920189775446" y="0" width="1.0079810224554209" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.99078136951005" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="458.99078136951005" y="0" width="1.0092186304899158" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1233,7 +1233,7 @@
                                 TeX
                             </div>
                             <small>
-                                <div>179 lines</div>
+                                <div>220 lines</div>
                                 <div>99.78%</div>
                             </small>
                         </div>
