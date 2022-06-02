@@ -1214,16 +1214,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 259kb of code in 66 edited files across 21 commits over last 11 days</small>
+                <small>estimation from 261kb of code in 66 edited files across 22 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="215.80830933772108" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="215.80830933772108" y="0" width="130.04319210201564" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="345.8515014397367" y="0" width="91.77293294940354" height="8" fill="#76d275"/>
-                    <rect mask="url(#languages-bar)" x="437.6244343891403" y="0" width="22.375565610859727" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="260.7181016275314" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="260.7181016275314" y="0" width="156.99093055037892" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="417.70903217791033" y="0" width="27.031929432227606" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="444.74096161013796" y="0" width="15.259038389862095" height="8" fill="#76d275"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1236,19 +1236,19 @@
                             </div>
                             <small>
                                 <div>101 lines</div>
-                                <div>46.91%</div>
+                                <div>56.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#76d275" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Starlark
+                                Dockerfile
                             </div>
                             <small>
-                                <div>135 lines</div>
-                                <div>19.95%</div>
+                                <div>7 lines</div>
+                                <div>5.88%</div>
                             </small>
                         </div>
                     </section>
@@ -1261,20 +1261,20 @@
                                 Shell
                             </div>
                             <small>
-                                <div>61 lines</div>
-                                <div>28.27%</div>
+                                <div>63 lines</div>
+                                <div>34.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#384d54" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#76d275" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Dockerfile
+                                Starlark
                             </div>
                             <small>
-                                <div>7 lines</div>
-                                <div>4.86%</div>
+                                <div>8 lines</div>
+                                <div>3.32%</div>
                             </small>
                         </div>
                     </section>
