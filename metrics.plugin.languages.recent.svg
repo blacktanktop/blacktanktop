@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 259kb of code in 66 edited files across 21 commits over last 11 days</small>
+                <small>estimation from 261kb of code in 66 edited files across 23 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.76349331584976" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="426.76349331584976" y="0" width="23.319739079220795" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="450.0832323950705" y="0" width="9.91676760492949" height="8" fill="#76d275"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="434.8478191947099" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="434.8478191947099" y="0" width="23.761492821232846" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.60931201594275" y="0" width="1.390687984057249" height="8" fill="#76d275"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                             </div>
                             <small>
                                 <div>83.4 kB</div>
-                                <div>92.77%</div>
+                                <div>94.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,8 +48,8 @@
                                 Starlark
                             </div>
                             <small>
-                                <div>1.94 kB</div>
-                                <div>2.16%</div>
+                                <div>267 bytes</div>
+                                <div>0.3%</div>
                             </small>
                         </div>
                     </section>
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>4.56 kB</div>
-                                <div>5.07%</div>
+                                <div>5.17%</div>
                             </small>
                         </div>
                     </section>
