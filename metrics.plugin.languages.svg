@@ -21,23 +21,23 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.72575285035023" height="8" fill="#da291c"/>
-                    <rect mask="url(#languages-bar)" x="227.72575285035023" y="0" width="216.29289840993914" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="444.0186512602894" y="0" width="13.907715118359834" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="457.9263663786492" y="0" width="2.073633621350785" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="223.24343869826953" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="223.24343869826953" y="0" width="221.23100152981144" height="8" fill="#da291c"/>
+                    <rect mask="url(#languages-bar)" x="444.474440228081" y="0" width="13.511066298452308" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="457.9855065265333" y="0" width="2.014493473466712" height="8" fill="#701516"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#da291c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        PostScript
-                    </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#da291c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        PostScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
