@@ -1188,10 +1188,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="349.53936333138853" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="349.53936333138853" y="0" width="108.4603814177363" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="457.99974474912483" y="0" width="1.1028661026837807" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.1026108518086" y="0" width="0.8973891481913652" height="8" fill="#76d275"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="349.97887070055265" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="349.97887070055265" y="0" width="108.59154736750834" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.570418068061" y="0" width="1.1041998475769759" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="459.67461791563795" y="0" width="0.32538208436203664" height="8" fill="#76d275"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1203,8 +1203,8 @@
                                 TeX
                             </div>
                             <small>
-                                <div>2.33k lines</div>
-                                <div>75.99%</div>
+                                <div>2.31k lines</div>
+                                <div>76.08%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1230,7 +1230,7 @@
                             </div>
                             <small>
                                 <div>1.26k lines</div>
-                                <div>23.58%</div>
+                                <div>23.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1241,8 +1241,8 @@
                                 Starlark
                             </div>
                             <small>
-                                <div>12 lines</div>
-                                <div>0.2%</div>
+                                <div>4 lines</div>
+                                <div>0.07%</div>
                             </small>
                         </div>
                     </section>
