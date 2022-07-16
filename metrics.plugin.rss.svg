@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">BBC Basic Editor</div>
-                                <div class="date">15 Jul 2022</div>
+                                <div class="title">Why rails buckle in Britain</div>
+                                <div class="date">16 Jul 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">EA: The Human Story (2004)</div>
-                                <div class="date">15 Jul 2022</div>
+                                <div class="title">Async Rust: What is a runtime? Here is how tokio works under the hood</div>
+                                <div class="date">16 Jul 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How Duke Nukem II’s parallax scrolling worked</div>
-                                <div class="date">15 Jul 2022</div>
+                                <div class="title">Show HN: Interactive course about “everyday” data science</div>
+                                <div class="date">16 Jul 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Why I created Scrumdog – a program to download Jira Issues to a local database</div>
+                                <div class="title">Algorithms by Jeff Erickson</div>
                                 <div class="date">15 Jul 2022</div>
                             </div>
                         </div>
