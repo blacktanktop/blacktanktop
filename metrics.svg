@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="722" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="702" class="">
     <defs>
         <style/>
     </defs>
@@ -1209,15 +1209,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 252kb of code in 39 edited files across 19 commits over last 14 days</small>
+                <small>estimation from 49.7kb of code in 31 edited files across 15 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="458.0854067731348" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="458.0854067731348" y="0" width="1.4788194380779502" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="459.56422621121277" y="0" width="0.43577378878722867" height="8" fill="#76d275"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="453.97091155082023" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="453.97091155082023" y="0" width="6.029088449179773" height="8" fill="#76d275"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1229,10 +1228,12 @@
                                 TeX
                             </div>
                             <small>
-                                <div>2.26k lines</div>
-                                <div>99.58%</div>
+                                <div>23 lines</div>
+                                <div>98.69%</div>
                             </small>
                         </div>
+                    </section>
+                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1242,21 +1243,7 @@
                             </div>
                             <small>
                                 <div>4 lines</div>
-                                <div>0.09%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#427819" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Makefile
-                            </div>
-                            <small>
-                                <div>11 lines</div>
-                                <div>0.32%</div>
+                                <div>1.31%</div>
                             </small>
                         </div>
                     </section>
