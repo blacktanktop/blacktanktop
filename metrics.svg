@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1220,14 +1220,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 39.7kb of code in 27 edited files across 13 commits over last 14 days</small>
+                <small>estimation from 39.7kb of code in 27 edited files across 14 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.4736842105263" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="422.4736842105263" y="0" width="37.526315789473685" height="8" fill="#76d275"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="413.54971664090675" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="413.54971664090675" y="0" width="46.45028335909325" height="8" fill="#76d275"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1240,7 +1240,7 @@
                             </div>
                             <small>
                                 <div>13 lines</div>
-                                <div>91.84%</div>
+                                <div>89.9%</div>
                             </small>
                         </div>
                     </section>
@@ -1253,8 +1253,8 @@
                                 Starlark
                             </div>
                             <small>
-                                <div>4 lines</div>
-                                <div>8.16%</div>
+                                <div>5 lines</div>
+                                <div>10.1%</div>
                             </small>
                         </div>
                     </section>
