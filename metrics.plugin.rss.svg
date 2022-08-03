@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Use one big server</div>
-                                <div class="date">2 Aug 2022</div>
+                                <div class="title">Why do tree-based models still outperform deep learning on tabular data?</div>
+                                <div class="date">3 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I used DALL·E 2 to generate a logo</div>
-                                <div class="date">2 Aug 2022</div>
+                                <div class="title">Things I've learned building a modern TUI framework</div>
+                                <div class="date">3 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Elixir Livebook now as a desktop app</div>
-                                <div class="date">2 Aug 2022</div>
+                                <div class="title">Hijacking Email with Cloudflare Email Routing</div>
+                                <div class="date">3 Aug 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Airflow's Problem</div>
-                                <div class="date">2 Aug 2022</div>
+                                <div class="title">The Illustrated TLS 1.3 Connection (Every byte explained and reproduced)</div>
+                                <div class="date">3 Aug 2022</div>
                             </div>
                         </div>
                     </section>
