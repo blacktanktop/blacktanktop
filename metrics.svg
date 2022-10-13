@@ -1213,9 +1213,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="416.9949370687487" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="416.9949370687487" y="0" width="36.07103412831196" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="453.06597119706066" y="0" width="6.934028802939343" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.9175654474589" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="419.9175654474589" y="0" width="33.14973241569318" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="453.0672978631521" y="0" width="6.932702136847917" height="8" fill="#AA6746"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1227,8 +1227,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>4.63k lines</div>
-                                <div>90.65%</div>
+                                <div>4.69k lines</div>
+                                <div>91.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1253,8 +1253,8 @@
                                 TSX
                             </div>
                             <small>
-                                <div>595 lines</div>
-                                <div>7.84%</div>
+                                <div>531 lines</div>
+                                <div>7.21%</div>
                             </small>
                         </div>
                     </section>
