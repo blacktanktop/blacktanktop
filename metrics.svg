@@ -1198,9 +1198,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.5581614715088" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="414.5581614715088" y="0" width="44.231338164044075" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="458.78949963555283" y="0" width="1.2105003644471122" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.55913563573216" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="414.55913563573216" y="0" width="44.23038995005038" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="458.78952558578254" y="0" width="1.2104744142174202" height="8" fill="#AA6746"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
