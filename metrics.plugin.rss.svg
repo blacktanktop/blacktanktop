@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">What’s wrong with medieval pigs in videogames</div>
-                                <div class="date">24 Oct 2022</div>
+                                <div class="title">My dad's resume and skills from 1980</div>
+                                <div class="date">25 Oct 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Sonic: Fast, lightweight and schema-less search backend</div>
-                                <div class="date">24 Oct 2022</div>
+                                <div class="title">Next.js 13</div>
+                                <div class="date">25 Oct 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Available Today: Windows Dev Kit 2023 a.k.a. Project Volterra</div>
-                                <div class="date">24 Oct 2022</div>
+                                <div class="title">Cloudflare CDN Partial Outage</div>
+                                <div class="date">25 Oct 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: IHP – Batteries-included web framework built on Haskell and Nix</div>
-                                <div class="date">24 Oct 2022</div>
+                                <div class="title">ClockworkPi – uConsole, “fantasy console” for indie game developers</div>
+                                <div class="date">25 Oct 2022</div>
                             </div>
                         </div>
                     </section>
