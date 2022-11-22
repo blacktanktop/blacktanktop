@@ -1196,15 +1196,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 299kb of code in 116 edited files across 81 commits over last 13 days</small>
+                <small>estimation from 308kb of code in 118 edited files across 84 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="374.8528765920071" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="374.8528765920071" y="0" width="45.36671058410189" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="420.219587176109" y="0" width="39.78041282389109" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.05201646090535" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="324.05201646090535" y="0" width="101.65432098765433" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="425.7063374485597" y="0" width="34.29366255144033" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1216,8 +1216,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.15k lines</div>
-                                <div>81.49%</div>
+                                <div>1.16k lines</div>
+                                <div>70.45%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1229,7 +1229,7 @@
                             </div>
                             <small>
                                 <div>118 lines</div>
-                                <div>8.65%</div>
+                                <div>7.46%</div>
                             </small>
                         </div>
                     </section>
@@ -1242,8 +1242,8 @@
                                 Solidity
                             </div>
                             <small>
-                                <div>126 lines</div>
-                                <div>9.86%</div>
+                                <div>328 lines</div>
+                                <div>22.1%</div>
                             </small>
                         </div>
                     </section>
