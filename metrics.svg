@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="722" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="702" class="">
     <defs>
         <style/>
     </defs>
@@ -1185,15 +1185,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 390kb of code in 142 edited files across 102 commits over last 14 days</small>
+                <small>estimation from 388kb of code in 139 edited files across 99 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.73840105272507" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="375.73840105272507" y="0" width="75.7351718347609" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="451.473572887486" y="0" width="8.526427112514027" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="382.83451095226735" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="382.83451095226735" y="0" width="77.16548904773263" height="8" fill="#AA6746"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1206,19 +1205,7 @@
                             </div>
                             <small>
                                 <div>2.99k lines</div>
-                                <div>81.68%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Python
-                            </div>
-                            <small>
-                                <div>57 lines</div>
-                                <div>1.85%</div>
+                                <div>83.22%</div>
                             </small>
                         </div>
                     </section>
@@ -1232,7 +1219,7 @@
                             </div>
                             <small>
                                 <div>506 lines</div>
-                                <div>16.46%</div>
+                                <div>16.78%</div>
                             </small>
                         </div>
                     </section>
