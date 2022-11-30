@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -1207,14 +1207,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 256kb of code in 117 edited files across 93 commits over last 14 days</small>
+                <small>estimation from 259kb of code in 113 edited files across 92 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="376.23477096308625" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="376.23477096308625" y="0" width="83.76522903691375" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="375.415419358227" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="375.415419358227" y="0" width="84.58458064177302" height="8" fill="#AA6746"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1226,8 +1226,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>3.56k lines</div>
-                                <div>81.79%</div>
+                                <div>3.52k lines</div>
+                                <div>81.61%</div>
                             </small>
                         </div>
                     </section>
@@ -1241,7 +1241,7 @@
                             </div>
                             <small>
                                 <div>736 lines</div>
-                                <div>18.21%</div>
+                                <div>18.39%</div>
                             </small>
                         </div>
                     </section>
