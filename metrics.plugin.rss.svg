@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Facebook tracking is illegal in Europe</div>
-                                <div class="date">9 Dec 2022</div>
+                                <div class="title">Just Use Postgres for Everything</div>
+                                <div class="date">10 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Vite 4.0</div>
-                                <div class="date">9 Dec 2022</div>
+                                <div class="title">JPEG XL support has officially been removed from Chromium</div>
+                                <div class="date">10 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Volatile pay for gig workers linked to health problems</div>
-                                <div class="date">9 Dec 2022</div>
+                                <div class="title">What Causes Alzheimer's? Scientists Are Rethinking the Answer</div>
+                                <div class="date">10 Dec 2022</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Japan’s Jimi ‘Mundane’ Halloween Costumes of 2022</div>
-                                <div class="date">9 Dec 2022</div>
+                                <div class="title">Show HN: Pg_CRDT – an experimental CRDT extension for Postgres</div>
+                                <div class="date">10 Dec 2022</div>
                             </div>
                         </div>
                     </section>
