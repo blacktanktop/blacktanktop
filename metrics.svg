@@ -1184,14 +1184,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 118kb of code in 80 edited files across 72 commits over last 14 days</small>
+                <small>estimation from 106kb of code in 65 edited files across 64 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="324.6089451846978" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="324.6089451846978" y="0" width="135.39105481530223" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.76189887501545" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="358.76189887501545" y="0" width="101.23810112498455" height="8" fill="#AA6746"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1203,8 +1203,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>1.55k lines</div>
-                                <div>70.57%</div>
+                                <div>1.51k lines</div>
+                                <div>77.99%</div>
                             </small>
                         </div>
                     </section>
@@ -1217,8 +1217,8 @@
                                 Solidity
                             </div>
                             <small>
-                                <div>632 lines</div>
-                                <div>29.43%</div>
+                                <div>378 lines</div>
+                                <div>22.01%</div>
                             </small>
                         </div>
                     </section>
