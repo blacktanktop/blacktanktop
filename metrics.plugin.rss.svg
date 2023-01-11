@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Taking over a Dead IoT Company</div>
-                                <div class="date">10 Jan 2023</div>
+                                <div class="title">NanoGPT</div>
+                                <div class="date">11 Jan 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Theory-building and why employee churn is lethal to software companies</div>
-                                <div class="date">10 Jan 2023</div>
+                                <div class="title">Guerrilla guide to CNC machining, mold making, and resin casting (2015)</div>
+                                <div class="date">11 Jan 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Learn Lisp the Hard Way</div>
-                                <div class="date">10 Jan 2023</div>
+                                <div class="title">Show HN: Kandria, an action RPG made in Common Lisp, is now out</div>
+                                <div class="date">11 Jan 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Tyranny of ‘The Plan' (2013)</div>
-                                <div class="date">10 Jan 2023</div>
+                                <div class="title">RISC-V SBC VisionFive 2 Officially Shipped</div>
+                                <div class="date">11 Jan 2023</div>
                             </div>
                         </div>
                     </section>
