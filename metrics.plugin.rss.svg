@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Suspiciously Criminal Portfolio Website</div>
-                                <div class="date">11 Mar 2023</div>
+                                <div class="title">Using LLaMA with M1 Mac and Python 3.11</div>
+                                <div class="date">12 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Find the most climate friendly meeting location</div>
-                                <div class="date">11 Mar 2023</div>
+                                <div class="title">Punctuation Matters: How to use the en dash, em dash and hyphen</div>
+                                <div class="date">12 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Coltrane: A music theory library with a command-line interface</div>
-                                <div class="date">10 Mar 2023</div>
+                                <div class="title">TypeScripting the Technical Interview</div>
+                                <div class="date">12 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Hype on Hacker News and Silicon Valley</div>
-                                <div class="date">11 Mar 2023</div>
+                                <div class="title">Show HN: Terminal Based Wikipedia</div>
+                                <div class="date">12 Mar 2023</div>
                             </div>
                         </div>
                     </section>
