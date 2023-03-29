@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Bicycle</div>
-                                <div class="date">28 Mar 2023</div>
+                                <div class="title">The age of average</div>
+                                <div class="date">29 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Cerebras-GPT: A Family of Open, Compute-Efficient, Large Language Models</div>
-                                <div class="date">28 Mar 2023</div>
+                                <div class="title">Launch HN: Vocode (YC W23) – Library for realtime voice conversation with LLMs</div>
+                                <div class="date">29 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AI vs. AGI vs. Consciousness vs. Super-Intelligence vs. Agency</div>
-                                <div class="date">28 Mar 2023</div>
+                                <div class="title">Effing-mad, an effect library for Rust</div>
+                                <div class="date">29 Mar 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">My4TH – A minimalistic FORTH computer with discrete CPU</div>
+                                <div class="title">Treat your to-read pile like a river, not a bucket</div>
                                 <div class="date">28 Mar 2023</div>
                             </div>
                         </div>
