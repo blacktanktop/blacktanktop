@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">SQL Maxis: Why We Ditched RabbitMQ and Replaced It with a Postgres Queue</div>
-                                <div class="date">11 Apr 2023</div>
+                                <div class="title">Intel Foundry Services and Arm announce collaboration on SoC design</div>
+                                <div class="date">12 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Make Something Wonderful – Steve Jobs in his own words</div>
-                                <div class="date">11 Apr 2023</div>
+                                <div class="title">Semaphore: A Full-Body Keyboard</div>
+                                <div class="date">12 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Supabase Edge Runtime: Self-Hosted Deno Functions</div>
-                                <div class="date">11 Apr 2023</div>
+                                <div class="title">Even when we know they’re “fake,” placebos can tame our emotional distress</div>
+                                <div class="date">12 Apr 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Elizabeth Holmes loses bid to stay out of prison</div>
+                                <div class="title">Conversation with Larry Masinter about standardizing Common Lisp</div>
                                 <div class="date">11 Apr 2023</div>
                             </div>
                         </div>
