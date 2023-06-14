@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Comic Mono</div>
-                                <div class="date">13 Jun 2023</div>
+                                <div class="title">I booted Linux 293k times in 21 hours</div>
+                                <div class="date">14 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenAI Function calling and API updates</div>
-                                <div class="date">13 Jun 2023</div>
+                                <div class="title">Why PostgreSQL High Availability Matters and How to Achieve It</div>
+                                <div class="date">14 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: Resend (YC W23) – Email API for Developers Using React</div>
-                                <div class="date">13 Jun 2023</div>
+                                <div class="title">APIs for content sites must be free</div>
+                                <div class="date">14 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Rewriting the Ruby Parser</div>
-                                <div class="date">13 Jun 2023</div>
+                                <div class="title">33-46% of workers on MTurk used LLMs in a text production task</div>
+                                <div class="date">14 Jun 2023</div>
                             </div>
                         </div>
                     </section>
