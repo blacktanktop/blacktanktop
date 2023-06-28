@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">macOS command-line tools you might not know about</div>
-                                <div class="date">27 Jun 2023</div>
+                                <div class="title">A trick to eliminate 2π (sometimes)</div>
+                                <div class="date">28 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Password Game</div>
-                                <div class="date">27 Jun 2023</div>
+                                <div class="title">Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs</div>
+                                <div class="date">28 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Zellij New WASM Plugin System</div>
-                                <div class="date">27 Jun 2023</div>
+                                <div class="title">Show HN: Open-source background removal in the browser</div>
+                                <div class="date">28 Jun 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Deep Sea (2019)</div>
-                                <div class="date">27 Jun 2023</div>
+                                <div class="title">BlockSuite: An open-source Notion-like editor with multiplayer support</div>
+                                <div class="date">28 Jun 2023</div>
                             </div>
                         </div>
                     </section>
