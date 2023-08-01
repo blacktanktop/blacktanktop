@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.17mb of code in 135 edited files across 85 commits over last 14 days</small>
+                <small>estimation from 1.15mb of code in 121 edited files across 64 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.89977749889357" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="256.89977749889357" y="0" width="203.10022250110646" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.43768015834013" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="281.43768015834013" y="0" width="178.56231984165993" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,7 +36,7 @@
                             </div>
                             <small>
                                 <div>92.1 kB</div>
-                                <div>55.85%</div>
+                                <div>61.18%</div>
                             </small>
                         </div>
                     </section>
@@ -49,8 +49,8 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>72.8 kB</div>
-                                <div>44.15%</div>
+                                <div>58.4 kB</div>
+                                <div>38.82%</div>
                             </small>
                         </div>
                     </section>
