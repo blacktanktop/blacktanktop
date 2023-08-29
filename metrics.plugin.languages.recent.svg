@@ -16,15 +16,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 839kb of code in 233 edited files across 74 commits over last 10 days</small>
+                <small>estimation from 840kb of code in 236 edited files across 78 commits over last 11 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="360.0088783663806" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="360.0088783663806" y="0" width="53.77330571174903" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="413.7821840781296" y="0" width="46.217815921870375" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="354.9146608315099" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="354.9146608315099" y="0" width="53.012399708242164" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="407.927060539752" y="0" width="52.072939460247994" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -37,7 +37,7 @@
                             </div>
                             <small>
                                 <div>31.7 kB</div>
-                                <div>78.26%</div>
+                                <div>77.16%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -48,8 +48,8 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>4.07 kB</div>
-                                <div>10.05%</div>
+                                <div>4.66 kB</div>
+                                <div>11.32%</div>
                             </small>
                         </div>
                     </section>
@@ -63,7 +63,7 @@
                             </div>
                             <small>
                                 <div>4.74 kB</div>
-                                <div>11.69%</div>
+                                <div>11.52%</div>
                             </small>
                         </div>
                     </section>
