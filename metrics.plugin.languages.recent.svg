@@ -16,14 +16,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 151kb of code in 105 edited files across 65 commits over last 14 days</small>
+                <small>estimation from 142kb of code in 83 edited files across 38 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="232.05619412515964" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="232.05619412515964" y="0" width="227.94380587484036" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="364.48804851944345" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="364.48804851944345" y="0" width="95.51195148055655" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>4.74 kB</div>
-                                <div>50.45%</div>
+                                <div>2.22 kB</div>
+                                <div>79.24%</div>
                             </small>
                         </div>
                     </section>
@@ -49,8 +49,8 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>4.66 kB</div>
-                                <div>49.55%</div>
+                                <div>582 bytes</div>
+                                <div>20.76%</div>
                             </small>
                         </div>
                     </section>
