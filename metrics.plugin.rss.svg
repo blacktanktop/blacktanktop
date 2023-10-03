@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Streaming LLM – No limit on context length for your favourite LLM</div>
-                                <div class="date">2 Oct 2023</div>
+                                <div class="title">Running Stable Diffusion XL 1.0 in 298MB of RAM</div>
+                                <div class="date">3 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Microsoft Defender flags Tor browser as a trojan and removes it from the system</div>
-                                <div class="date">2 Oct 2023</div>
+                                <div class="title">Google open-sources their graph mining library</div>
+                                <div class="date">3 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ask HN: Who is hiring? (October 2023)</div>
-                                <div class="date">2 Oct 2023</div>
+                                <div class="title">Pgroll: zero-downtime, undoable, schema migrations for Postgres</div>
+                                <div class="date">3 Oct 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Weird A.I. Yankovic: a cursed deep dive into the world of voice cloning</div>
-                                <div class="date">2 Oct 2023</div>
+                                <div class="title">Hey, Computer, Make Me a Font</div>
+                                <div class="date">3 Oct 2023</div>
                             </div>
                         </div>
                     </section>
