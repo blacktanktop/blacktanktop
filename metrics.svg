@@ -1207,15 +1207,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 4.47mb of code in 315 edited files across 75 commits over last 14 days</small>
+                <small>estimation from 4.46mb of code in 311 edited files across 72 commits over last 14 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.65087124825646" height="8" fill="#da291c"/>
-                    <rect mask="url(#languages-bar)" x="425.65087124825646" y="0" width="34.34112960407158" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="459.99200085232803" y="0" width="0.00799914767195657" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.8059731549393" height="8" fill="#da291c"/>
+                    <rect mask="url(#languages-bar)" x="426.8059731549393" y="0" width="33.18600598985483" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="459.99197914479413" y="0" width="0.008020855205881305" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1228,7 +1228,7 @@
                             </div>
                             <small>
                                 <div>100k lines</div>
-                                <div>92.53%</div>
+                                <div>92.78%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1253,8 +1253,8 @@
                                 TeX
                             </div>
                             <small>
-                                <div>1.76k lines</div>
-                                <div>7.47%</div>
+                                <div>1.64k lines</div>
+                                <div>7.21%</div>
                             </small>
                         </div>
                     </section>
