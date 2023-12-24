@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Ferret: A Multimodal Large Language Model by Apple</div>
-                                <div class="date">23 Dec 2023</div>
+                                <div class="title">Mozilla sccache: ccache with cloud storage</div>
+                                <div class="date">22 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Xmas.c, winner of the 1988 International Obfuscated C Code Contest</div>
-                                <div class="date">23 Dec 2023</div>
+                                <div class="title">The mystery of the mimic plant (2022)</div>
+                                <div class="date">21 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Quantum Computing's Hard, Cold Reality Check</div>
-                                <div class="date">23 Dec 2023</div>
+                                <div class="title">America Lost the Chestnut, Its One Perfect Tree</div>
+                                <div class="date">24 Dec 2023</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Otter, Fastest Go in-memory cache based on S3-FIFO algorithm</div>
-                                <div class="date">23 Dec 2023</div>
+                                <div class="title">Generals.io – Capture enemy generals to defeat them</div>
+                                <div class="date">24 Dec 2023</div>
                             </div>
                         </div>
                     </section>
