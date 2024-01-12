@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: GodotOS: A Fake Operating System Interface Made in the Godot Engine</div>
-                                <div class="date">11 Jan 2024</div>
+                                <div class="title">We need technology that is less immersive, not more</div>
+                                <div class="date">12 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Timeline to remove DSA support in OpenSSH</div>
-                                <div class="date">11 Jan 2024</div>
+                                <div class="title">Did OpenTelemetry deliver on its promise in 2023?</div>
+                                <div class="date">12 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Technical Dive into PostgreSQL's replication mechanisms</div>
-                                <div class="date">11 Jan 2024</div>
+                                <div class="title">Vector Databases: A Technical Primer [pdf]</div>
+                                <div class="date">12 Jan 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GitHub Actions as a time-sharing supercomputer</div>
-                                <div class="date">10 Jan 2024</div>
+                                <div class="title">Trilinear Point Splatting for Real-Time Radiance Field Rendering</div>
+                                <div class="date">12 Jan 2024</div>
                             </div>
                         </div>
                     </section>
