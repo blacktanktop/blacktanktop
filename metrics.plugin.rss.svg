@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="182" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="184" class="">
     <defs>
         <style/>
     </defs>
@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Tailwind color palette generator</div>
+                                <div class="title">Pkl, a Programming Language for Configuration</div>
                                 <div class="date">2 Feb 2024</div>
                             </div>
                         </div>
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pandoc</div>
-                                <div class="date">28 Jan 2024</div>
+                                <div class="title">A 1.55 R⊕ habitable-zone planet hosted by TOI-715</div>
+                                <div class="date">3 Feb 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pinball Map: Crowd-sourced worldwide map of public pinball machines</div>
-                                <div class="date">2 Feb 2024</div>
+                                <div class="title">Over the Edge - Microsoft’s Design Tactics Compromise Free Browser Choice [pdf]</div>
+                                <div class="date">3 Feb 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Fck-nat: The (f)easible (C)ost (k)onfigurable NAT</div>
-                                <div class="date">28 Jan 2024</div>
+                                <div class="title">Folk Computer</div>
+                                <div class="date">3 Feb 2024</div>
                             </div>
                         </div>
                     </section>
