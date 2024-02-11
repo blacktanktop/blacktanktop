@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I Was Illegally Fired by Amazon for Speaking Out About a Coworker's Death (2023)</div>
-                                <div class="date">10 Feb 2024</div>
+                                <div class="title">I designed a cube that balances itself on a corner</div>
+                                <div class="date">11 Feb 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Svelte Tenets by Rich Harris</div>
-                                <div class="date">10 Feb 2024</div>
+                                <div class="title">RLHF a LLM in &lt;50 lines of Python</div>
+                                <div class="date">11 Feb 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Aho – a Git implementation in Awk</div>
-                                <div class="date">10 Feb 2024</div>
+                                <div class="title">Cross My Heart – A Frogger Demake in 256 Bytes of HTML/JS</div>
+                                <div class="date">11 Feb 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Memray – A Memory Profiler for Python</div>
-                                <div class="date">10 Feb 2024</div>
+                                <div class="title">Javalin – a simple web framework for Java and Kotlin</div>
+                                <div class="date">11 Feb 2024</div>
                             </div>
                         </div>
                     </section>
