@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Mirror Fusion Test Facility (2023)</div>
-                                <div class="date">4 May 2024</div>
+                                <div class="title">ESP32-S3 has (a few) SIMD instructions</div>
+                                <div class="date">5 May 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CBMC: C bounded model checker (2021)</div>
-                                <div class="date">4 May 2024</div>
+                                <div class="title">Machine unlearning: ML model minus the information to be unlearned</div>
+                                <div class="date">5 May 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Porting HPC Applications to AMD Instinct MI300A Using Unified Memory and OpenMP</div>
-                                <div class="date">4 May 2024</div>
+                                <div class="title">A History of C Compilers – Part 1: Performance, Portability and Freedom</div>
+                                <div class="date">5 May 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Matrix: A Bayesian learning model for LLMs</div>
-                                <div class="date">4 May 2024</div>
+                                <div class="title">Simplicity is an advantage but sadly complexity sells better (2022)</div>
+                                <div class="date">5 May 2024</div>
                             </div>
                         </div>
                     </section>
