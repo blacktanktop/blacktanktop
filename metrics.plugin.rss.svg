@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A reawakening of systems programming meetups</div>
-                                <div class="date">7 Jul 2024</div>
+                                <div class="title">Reverse Engineering Ticketmaster's Rotating Barcodes</div>
+                                <div class="date">8 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Synchronization Is Bad for Scale</div>
-                                <div class="date">7 Jul 2024</div>
+                                <div class="title">Entering text in the terminal is complicated</div>
+                                <div class="date">8 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Talent Search versus Talent Development (2019) [pdf]</div>
-                                <div class="date">7 Jul 2024</div>
+                                <div class="title">The Right Kind of Stubborn</div>
+                                <div class="date">8 Jul 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Execute JavaScript in a WebAssembly QuickJS sandbox</div>
-                                <div class="date">7 Jul 2024</div>
+                                <div class="title">Show HN: Open-sourced Webflow for your own app</div>
+                                <div class="date">8 Jul 2024</div>
                             </div>
                         </div>
                     </section>
