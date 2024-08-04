@@ -1184,7 +1184,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 167kb of code in 21 edited files across 9 commits over last 14 days</small>
+                <small>estimation from 107kb of code in 16 edited files across 4 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -1202,7 +1202,7 @@
                                 TeX
                             </div>
                             <small>
-                                <div>478 lines</div>
+                                <div>296 lines</div>
                                 <div>100%</div>
                             </small>
                         </div>
