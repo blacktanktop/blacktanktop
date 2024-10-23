@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku</div>
-                                <div class="date">22 Oct 2024</div>
+                                <div class="title">Show HN: Agent.exe, a cross-platform app to let 3.5 Sonnet control your machine</div>
+                                <div class="date">23 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">USGS uses machine learning to show large lithium potential in Arkansas</div>
-                                <div class="date">22 Oct 2024</div>
+                                <div class="title">Show HN: A macOS Client for HuggingFace Chat</div>
+                                <div class="date">23 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Rust Web Framework</div>
-                                <div class="date">22 Oct 2024</div>
+                                <div class="title">Nix at work: FlakeHub Cache and private flakes</div>
+                                <div class="date">23 Oct 2024</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: Open-source Counter Strike like game</div>
-                                <div class="date">22 Oct 2024</div>
+                                <div class="title">A DSL for peephole transformation rules of integer operations in the PyPy JIT</div>
+                                <div class="date">23 Oct 2024</div>
                             </div>
                         </div>
                     </section>
