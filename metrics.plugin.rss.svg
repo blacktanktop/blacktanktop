@@ -20,7 +20,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Just: Just a Command Runner</div>
+                                <div class="title">Insects rely on sounds made by distressed vegetation to guide reproduction</div>
                                 <div class="date">7 Dec 2024</div>
                             </div>
                         </div>
@@ -29,7 +29,16 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Protecting Undersea Internet Cables Is a Tech Nightmare</div>
+                                <div class="title">Researchers Use AI to Turn Sound Recordings into Accurate Street Images</div>
+                                <div class="date">1 Dec 2024</div>
+                            </div>
+                        </div>
+                        <div class="field rss">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
+                            <div class="infos">
+                                <div class="title">Mise: Dev tools, env vars, task runner</div>
                                 <div class="date">7 Dec 2024</div>
                             </div>
                         </div>
@@ -38,17 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I algorithmically donated $5000 to Open Source</div>
-                                <div class="date">3 Dec 2024</div>
-                            </div>
-                        </div>
-                        <div class="field rss">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <div class="infos">
-                                <div class="title">MIT largest open-source car design dataset, incl aerodynamics, to speed design</div>
-                                <div class="date">6 Dec 2024</div>
+                                <div class="title">UnitedHealth's Effort to Deny Coverage for a Patient's Care</div>
+                                <div class="date">8 Dec 2024</div>
                             </div>
                         </div>
                     </section>
