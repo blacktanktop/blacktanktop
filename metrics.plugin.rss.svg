@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">DeepSeek Drops Distributed DuckDB</div>
-                                <div class="date">2 Mar 2025</div>
+                                <div class="title">The power of interning: making a time series database 2000x smaller in Rust</div>
+                                <div class="date">3 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Lifestyle of out of touch execs who are pushing return to office</div>
-                                <div class="date">2 Mar 2025</div>
+                                <div class="title">Ask HN: Who is hiring? (March 2025)</div>
+                                <div class="date">3 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">GPT-4.5: "Not a frontier model"?</div>
-                                <div class="date">2 Mar 2025</div>
+                                <div class="title">Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit</div>
+                                <div class="date">3 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Raspberry Pi Pico audio player</div>
-                                <div class="date">2 Mar 2025</div>
+                                <div class="title">Show HN: Knowledge graph of restaurants and chefs, built using LLMs</div>
+                                <div class="date">3 Mar 2025</div>
                             </div>
                         </div>
                     </section>
