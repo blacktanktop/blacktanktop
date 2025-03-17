@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="141" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="181" class="">
     <defs>
         <style/>
     </defs>
@@ -22,10 +22,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="456.0023770567566" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="456.0023770567566" y="0" width="2.114381661174885" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.1167587179315" y="0" width="1.4279207060581232" height="8" fill="#ededed"/>
-                    <rect mask="url(#languages-bar)" x="459.54467942398963" y="0" width="0.45532057601040643" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="455.71459583183315" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="455.71459583183315" y="0" width="2.113047283603575" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="457.8276431154368" y="0" width="1.4270195511726265" height="8" fill="#ededed"/>
+                    <rect mask="url(#languages-bar)" x="459.2546626666094" y="0" width="0.7453373333906373" height="8" fill="#ededed"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -70,13 +70,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#ededed" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Python
+                                BibTeX Style
                             </div>
                             <small>
-                                <div>1.02k lines</div>
-                                <div>30.6 kB</div>
+                                <div>2.15k lines</div>
+                                <div>50.2 kB</div>
                             </small>
                         </div>
                     </section>
