@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Claude can now search the web</div>
-                                <div class="date">20 Mar 2025</div>
+                                <div class="title">IronRDP: a Rust implementation of Microsoft's RDP protocol</div>
+                                <div class="date">21 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">OpenAI Audio Models</div>
-                                <div class="date">20 Mar 2025</div>
+                                <div class="title">Show HN: A terminal emulator in pure PHP</div>
+                                <div class="date">21 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CVE-2024-54471: Leaking Passwords (and More!) on macOS</div>
-                                <div class="date">20 Mar 2025</div>
+                                <div class="title">Chunking Attacks on File Backup Services Using Content-Deﬁned Chunking [pdf]</div>
+                                <div class="date">21 Mar 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">ACARS Drama</div>
-                                <div class="date">20 Mar 2025</div>
+                                <div class="title">Global population datasets systematically underrepresent rural population</div>
+                                <div class="date">18 Mar 2025</div>
                             </div>
                         </div>
                     </section>
