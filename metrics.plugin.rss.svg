@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Llama4</div>
-                                <div class="date">5 Apr 2025</div>
+                                <div class="title">Standard Ebooks: liberated ebooks, carefully produced for the true book lover</div>
+                                <div class="date">6 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dynamic Register Allocation on AMD's RDNA 4 GPU Architecture</div>
-                                <div class="date">5 Apr 2025</div>
+                                <div class="title">Pitfalls of Safe Rust</div>
+                                <div class="date">4 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Show HN: I built a word game. My mom thinks it's great. What do you think?</div>
-                                <div class="date">5 Apr 2025</div>
+                                <div class="title">The "S" in MCP Stands for Security</div>
+                                <div class="date">6 Apr 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">A Vision for WebAssembly Support in Swift</div>
-                                <div class="date">5 Apr 2025</div>
+                                <div class="title">Hiding elements that require JavaScript without JavaScript</div>
+                                <div class="date">6 Apr 2025</div>
                             </div>
                         </div>
                     </section>
