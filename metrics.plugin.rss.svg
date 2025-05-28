@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Square Theory</div>
-                                <div class="date">27 May 2025</div>
+                                <div class="title">Show HN: I rewrote my Mac Electron app in Rust</div>
+                                <div class="date">28 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Pyrefly vs. Ty: Comparing Python's Two New Rust-Based Type Checkers</div>
-                                <div class="date">27 May 2025</div>
+                                <div class="title">Compiler Explorer and the promise of URLs that last forever</div>
+                                <div class="date">28 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Launch HN: Relace (YC W23) – Models for fast and reliable codegen</div>
-                                <div class="date">27 May 2025</div>
+                                <div class="title">Compiling a Neural Net to C for a 1,744× speedup</div>
+                                <div class="date">28 May 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">How a hawk learned to use traffic signals to hunt more successfully</div>
-                                <div class="date">27 May 2025</div>
+                                <div class="title">Deepseek R1-0528</div>
+                                <div class="date">28 May 2025</div>
                             </div>
                         </div>
                     </section>
