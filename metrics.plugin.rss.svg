@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CVE-2025-48384: Breaking Git with a carriage return and cloning RCE</div>
-                                <div class="date">8 Jul 2025</div>
+                                <div class="title">Tree Borrows</div>
+                                <div class="date">9 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Supabase MCP leaks your entire SQL Database, a lethal trifecta attack</div>
-                                <div class="date">8 Jul 2025</div>
+                                <div class="title">Show HN: FlopperZiro – A DIY open-source Flipper Zero clone</div>
+                                <div class="date">9 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Radium – The Music Editor</div>
-                                <div class="date">8 Jul 2025</div>
+                                <div class="title">Evolution Mail Users Easily Trackable</div>
+                                <div class="date">9 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,7 +47,7 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Dynamical origin of Theia, the last giant impactor on Earth</div>
+                                <div class="title">Why LLMs Can't Write Q/Kdb+: Writing Code Right-to-Left</div>
                                 <div class="date">8 Jul 2025</div>
                             </div>
                         </div>
