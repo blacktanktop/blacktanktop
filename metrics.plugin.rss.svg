@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">lsr: ls with io_uring</div>
-                                <div class="date">18 Jul 2025</div>
+                                <div class="title">Rethinking CLI interfaces for AI</div>
+                                <div class="date">19 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Trying Guix: A Nixer's impressions</div>
-                                <div class="date">15 Jul 2025</div>
+                                <div class="title">OpenAI claims gold-medal performance at IMO 2025</div>
+                                <div class="date">19 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">CP/M creator Gary Kildall's memoirs released as free download</div>
-                                <div class="date">18 Jul 2025</div>
+                                <div class="title">Linux and Secure Boot certificate expiration</div>
+                                <div class="date">19 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA</div>
-                                <div class="date">18 Jul 2025</div>
+                                <div class="title">My Self-Hosting Setup</div>
+                                <div class="date">19 Jul 2025</div>
                             </div>
                         </div>
                     </section>
