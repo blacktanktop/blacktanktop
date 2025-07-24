@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">You Can Now Disable All AI Features in Zed</div>
-                                <div class="date">23 Jul 2025</div>
+                                <div class="title">PSA: SQLite WAL checksums fail silently and may lose data</div>
+                                <div class="date">24 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Proxmox Donates €10k to the Perl and Raku Foundation</div>
-                                <div class="date">23 Jul 2025</div>
+                                <div class="title">Use Your Type System</div>
+                                <div class="date">24 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">The Promised LAN</div>
-                                <div class="date">23 Jul 2025</div>
+                                <div class="title">I wasted weeks hand optimizing assembly because I benchmarked on random data</div>
+                                <div class="date">21 Jul 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Trip to moon required Apollo 11 crew to sign US Customs declaration to enter US</div>
-                                <div class="date">23 Jul 2025</div>
+                                <div class="title">Major Quantum Computing Advance Made Obsolete by Teenager (2018)</div>
+                                <div class="date">24 Jul 2025</div>
                             </div>
                         </div>
                     </section>
