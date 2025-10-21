@@ -20,8 +20,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">BERT is just a single text diffusion step</div>
-                                <div class="date">20 Oct 2025</div>
+                                <div class="title">Magit Is Amazing</div>
+                                <div class="date">21 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -29,8 +29,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Production RAG: what I learned from processing 5M+ documents</div>
-                                <div class="date">20 Oct 2025</div>
+                                <div class="title">Neural audio codecs: how to get audio into LLMs</div>
+                                <div class="date">21 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -38,8 +38,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">AWS Multiple Services Down in us-east-1</div>
-                                <div class="date">20 Oct 2025</div>
+                                <div class="title">LLMs Can Get "Brain Rot"</div>
+                                <div class="date">21 Oct 2025</div>
                             </div>
                         </div>
                         <div class="field rss">
@@ -47,8 +47,8 @@
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
                             <div class="infos">
-                                <div class="title">Alibaba Cloud says it cut Nvidia AI GPU use by 82% with new pooling system</div>
-                                <div class="date">20 Oct 2025</div>
+                                <div class="title">Build Your Own Database</div>
+                                <div class="date">21 Oct 2025</div>
                             </div>
                         </div>
                     </section>
